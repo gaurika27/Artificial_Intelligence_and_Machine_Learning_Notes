@@ -1,0 +1,1 @@
+Key to ML is this idea of context, which is where weights come in. Weights represent how important an associated feature is to determining the accuracy of the outcome. Therefore, something that has a higher likelihood of accuracy has a higher weight, and something with a lower likelihood of accuracy has a lower weight.
