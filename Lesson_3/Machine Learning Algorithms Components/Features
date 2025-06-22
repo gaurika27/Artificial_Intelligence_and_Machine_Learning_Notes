@@ -1,1 +1,1 @@
-
+Features are the parts of your datasets that are identified as important in determining accurate outcomes. For example, the first feature might be whether an item is a hat or not a hat. These features must be expressed mathematically, so in this case the model will convert a yes into a 1 and a no into a 0.
